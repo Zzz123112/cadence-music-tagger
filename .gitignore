@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.pytmp/
+build/
+dist/
+dist_new/
+build_new/
+*.spec
+
+# 本项目运行/打包产物
+Cadence/
+CadenceApp/
+dist_zip/
+*.lnk
+MusicTaggerData/
+
+# 用户数据与缓存
+*.log
+covers/
+covercache/
+
+# 示例音频（版权原因不入库）
+samples/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
