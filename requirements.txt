@@ -1,0 +1,12 @@
+# 依赖
+mutagen>=1.47
+requests>=2.31
+pillow>=10.0
+numpy>=1.26
+soundfile>=0.12
+
+# 开发/测试
+pytest>=8.0
+
+# 打包（可选）
+# pyinstaller>=6.0
